@@ -1,0 +1,23 @@
+{
+  "name": "Croissant Plouf Saga",
+  "short_name": "Croissant Plouf",
+  "id": "./",
+  "description": "Ett franskt match-3-spel med regionerövring och gömda karaktärer.",
+  "lang": "sv",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbf2e2",
+  "theme_color": "#f4cf7a",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png" },
+    {
+      "src": "./icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
